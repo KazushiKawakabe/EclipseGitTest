@@ -6,5 +6,6 @@ public class Test_one {
 		System.out.println("Gitのマスターに上げます");
 		System.out.println("testブランチに上げます");
 		System.out.println("bashのテストをします");
+		System.out.println("コンフリクトになる２");
 	}
 }
